@@ -1,3 +1,2 @@
 # Baby-step-giant-step
-Написанный алгоритм позволяет получить закрытый ключ путём взятия дискретного логарифма от открытого ключа
-(a^x) = b(mod p) -> ищем x, задавая параметры a, b, p
+The algorithm obtains a private key by taking the discrete logarithm of the public key (a^x) = b(mod p) -> search for x, giving the parameters a, b, p
